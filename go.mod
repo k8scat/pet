@@ -1,9 +1,10 @@
 module github.com/knqyf263/pet
 
-go 1.17
+go 1.20
 
 require (
 	github.com/BurntSushi/toml v0.3.0
+	github.com/atotto/clipboard v0.1.4
 	github.com/briandowns/spinner v0.0.0-20170614154858-48dbb65d7bd5
 	github.com/chzyer/logex v1.1.10 // indirect
 	github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e
